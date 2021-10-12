@@ -61,3 +61,4 @@ gem 'spree_backend' # Rails admin panel (optional)
 gem 'spree_emails' # transactional emails (optional)
 gem 'spree_sample' # dummy data like products, taxons, etc
 gem 'spree_auth_devise', '~> 4.3' # Devise integration (optional)
+gem 'rake'
